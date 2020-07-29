@@ -1,8 +1,12 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/eai04191/eai04191/master/pogchamp.png" height="195px">
-　
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=eai04191&show_icons=true" height="195px"></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=eai04191&show_icons=true">
+<img height="150px" width="72px" src="https://raw.githubusercontent.com/eai04191/eai04191/master/pogchamp.png">
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eai04191&hide=html&layout=compact">
+</a>
 </h1>
+
 <span align="center">
 
 [![Website badge](https://img.shields.io/badge/website-mizle.net-green?style=for-the-badge)](https://mizle.net)
