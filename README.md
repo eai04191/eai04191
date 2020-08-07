@@ -1,10 +1,10 @@
 <h1 align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=eai04191&show_icons=true&count_private=true">
+<img height="150px" src="https://grs.mizle.net/api?username=eai04191&show_icons=true&count_private=true">
 </a>
 <img height="150px" width="72px" src="https://raw.githubusercontent.com/eai04191/eai04191/master/symmetrychamp.png">
-<img height="150px" src="https://github-readme-stats-xi-red.vercel.app/api/top-langs/?username=eai04191&hide=html&layout=compact">
+<img height="150px" src="https://grs.mizle.net/api/top-langs/?username=eai04191&hide=html&layout=compact">
 </h1>
 
 <span align="center">
