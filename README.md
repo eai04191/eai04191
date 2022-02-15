@@ -1,8 +1,3 @@
-<details>
-<summary>❓ I'm following you, but Your icon must have been something else before. Who are you?</summary>
-I changed my icon because I got a new job and am using this account for work. You can see my previous profile <a href="http://web.archive.org/web/20200615165846/https://github.com/eai04191">here</a>.
-</details>
-
 <h1 align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
